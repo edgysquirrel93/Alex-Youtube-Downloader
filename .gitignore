@@ -2,6 +2,9 @@
 .idea/
 .vscode/
 
+Terminal-Based/
+GUI-based/
+
 # Python cache and bytecode
 __pycache__/
 *.py[cod]
