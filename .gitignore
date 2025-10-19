@@ -2,11 +2,6 @@
 .idea/
 .vscode/
 
-.gitattributes
-README.md
-Terminal-Based/
-
-
 # Python cache and bytecode
 __pycache__/
 *.py[cod]
